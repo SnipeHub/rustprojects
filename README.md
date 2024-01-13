@@ -15,7 +15,7 @@ rustup - this will update your rust install, if you have installed on Linux from
 
 cargo new - create a new project
 
-cargo run - Using cargo run is will first compile and then run the executable, cargo run is more convenient than having to remember to run cargo build and then use the whole path to the binary, so most developers use cargo run. Also if you have not made any changes to your source cargo, it will not compile it again, it will simply run the executable again. 
+cargo run - Using cargo run will first compile and then run the executable, cargo run is more convenient than having to remember to run cargo build and then use the whole path to the binary, so most developers use cargo run. Also if you have not made any changes to your source cargo, it will not compile it again, it will simply run the executable again. 
 
 cargo build
 
