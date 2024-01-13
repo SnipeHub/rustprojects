@@ -6,10 +6,11 @@
 2. https://github.com/rust-lang/rustlings/
 3. (a book for those inclined) https://www.amazon.com/dp/B08WZ2D7WC?tag=geekflare-20&linkCode=ogi&th=1&psc=1
 
-
 # Some helpful RUST commands
 
 rustc - this command will compile your main.rs source file, this is used for more simple programs
+
+rustup - this will update your rust install, if you have installed on Linux from your distro's maintained repo, not necessary to run.
 
 cargo new - create a new project
 
