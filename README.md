@@ -2,9 +2,10 @@
 
 # Current recommended resources #
 
-1. https://doc.rust-lang.org/book/ & overview documentation of all other helpful links for RUST https://doc.rust-lang.org/stable/
-2. https://github.com/rust-lang/rustlings/
-3. (a book for those inclined) https://www.amazon.com/dp/B08WZ2D7WC?tag=geekflare-20&linkCode=ogi&th=1&psc=1
+1. https://doc.rust-lang.org/book/ Main guide/tutorial for RUST
+2. https://doc.rust-lang.org/stable/ overview documentation of all other helpful links for RUST 
+3. https://github.com/rust-lang/rustlings/
+4. (a book for those inclined) https://www.amazon.com/dp/B08WZ2D7WC?tag=geekflare-20&linkCode=ogi&th=1&psc=1
 
 # Some helpful RUST commands
 
