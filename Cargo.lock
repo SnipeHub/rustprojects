@@ -7,9 +7,5 @@ name = "hello_cargo"
 version = "0.1.0"
 
 [[package]]
-name = "rustprojects"
-version = "0.1.0"
-
-[[package]]
-name = "variables"
+name = "floating_point"
 version = "0.1.0"

@@ -10,7 +10,8 @@
 
 # Some helpful RUST commands
 
-`rustc` - this command will compile your main.rs source file, this is used for more simple programs
+`rustc` - this command will compile your main.rs source file, this is used for more simple programs. Example: "rustc main.rs" this will compile it, then you would
+        type ./main to run the application.
 
 `rustup` - this will update your rust install, if you have installed on Linux from your distro's maintained repo, not necessary to run.
 
