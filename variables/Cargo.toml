@@ -1,4 +1,3 @@
-workspace = { members = ["variables_shadowing"] }
 [package]
 name = "variables"
 version = "0.1.0"

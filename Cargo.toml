@@ -1,4 +1,10 @@
-workspace = {}
+workspace = { members = [
+    "hello_cargo",
+    "variables",
+    "variables_shadowing",
+    "floating_point",
+    "boolean_types",
+    ] }
 [package]
 name = "rustprojects"
 version = "0.1.0"
