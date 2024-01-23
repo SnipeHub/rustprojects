@@ -7,6 +7,14 @@ name = "boolean_types"
 version = "0.1.0"
 
 [[package]]
+name = "character_type"
+version = "0.1.0"
+
+[[package]]
+name = "compound_types"
+version = "0.1.0"
+
+[[package]]
 name = "floating_point"
 version = "0.1.0"
 

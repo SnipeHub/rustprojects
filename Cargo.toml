@@ -3,7 +3,9 @@ workspace = { members = [
     "variables",
     "variables_shadowing",
     "floating_point",
-    "boolean_types",
+    "boolean_types", 
+    "character_type", 
+    "compound_types",
     ] }
 [package]
 name = "rustprojects"
