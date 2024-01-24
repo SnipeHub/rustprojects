@@ -4,9 +4,10 @@
 
 1. https://doc.rust-lang.org/book/ Main guide/tutorial for RUST
 2. https://doc.rust-lang.org/stable/ overview documentation of all other helpful links for RUST 
-3. https://github.com/rust-lang/rustlings/
-4. (a book for those inclined) https://www.amazon.com/dp/B08WZ2D7WC?tag=geekflare-20&linkCode=ogi&th=1&psc=1
-5. https://www.rustadventure.dev/ (haven't tried this yet, but keeping it as an option for later)
+3. https://github.com/rust-lang/rustlings/ An interactive guide that runs in your console, should be used together with The Book above
+4. https://doc.rust-lang.org/rust-by-example/index.html Learn by example, rather than just reading
+5. (a book for those inclined) https://www.amazon.com/dp/B08WZ2D7WC?tag=geekflare-20&linkCode=ogi&th=1&psc=1
+6. https://www.rustadventure.dev/ (haven't tried this yet, but keeping it as an option for later)
 
 # Some helpful RUST commands
 
