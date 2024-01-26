@@ -6,7 +6,11 @@ workspace = { members = [
     "boolean_types", 
     "character_type", 
     "compound_types", 
-    "array_type",
+    "array_type", 
+    "functions", 
+    "functions_parameters", 
+    "functions_mult_parameters", 
+    "fn_statements_expressions",
     ] }
 [package]
 name = "rustprojects"

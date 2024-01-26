@@ -23,6 +23,22 @@ name = "floating_point"
 version = "0.1.0"
 
 [[package]]
+name = "fn_statements_expressions"
+version = "0.1.0"
+
+[[package]]
+name = "functions"
+version = "0.1.0"
+
+[[package]]
+name = "functions_mult_parameters"
+version = "0.1.0"
+
+[[package]]
+name = "functions_parameters"
+version = "0.1.0"
+
+[[package]]
 name = "hello_cargo"
 version = "0.1.0"
 
