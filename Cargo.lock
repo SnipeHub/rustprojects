@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "array_type"
+version = "0.1.0"
+
+[[package]]
 name = "boolean_types"
 version = "0.1.0"
 
