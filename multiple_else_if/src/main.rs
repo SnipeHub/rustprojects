@@ -79,7 +79,7 @@ if destination == "Europe" // check if destination is Europe
     {
     println!("ex4:Shipping to Europe. International shipping rates will apply.");
     }
-else if destination == "USA" // by adding an 'else if' it will check for it, as Europe is no longer true, test it by changing the destination
+else if destination == "USA" // by adding an 'else if' it will check for it if Europe is no longer true, test it by changing the destination
     {
     println!("ex4:Shipping to the USA. Domestic shipping rates will apply.");
     }
