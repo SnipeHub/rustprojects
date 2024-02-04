@@ -11,7 +11,8 @@ workspace = { members = [
     "functions_parameters", 
     "functions_mult_parameters", 
     "fn_statements_expressions", 
-    "functions_return",
+    "functions_return", 
+    "if_expressions",
     ] }
 [package]
 name = "rustprojects"
