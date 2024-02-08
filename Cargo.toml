@@ -14,7 +14,9 @@ workspace = { members = [
     "functions_return", 
     "if_expressions", 
     "multiple_else_if", 
-    "if_in_let",
+    "if_in_let", 
+    "loops", 
+    "multiple_loops",
     ] }
 [package]
 name = "rustprojects"
