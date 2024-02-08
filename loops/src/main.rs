@@ -1,4 +1,4 @@
-fn main() /* Loops are all about repating code, where by the code is executed to the end, then loops back to the beginning
+fn main() /* Loops are all about repeating code, where by the code is executed to the end, then loops back to the beginning
           RUST has three kinds of loops: loop, while, and for. */
 
           // loop
