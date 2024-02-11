@@ -1,17 +1,17 @@
 fn main() /* Loops are all about repeating code, where by the code is executed to the end, then loops back to the beginning
           RUST has three kinds of loops: loop, while, and for. */
 
-          // loop
+          // loop example 1
 {
    loop 
    {
-        println!("Looping!"); //I have added a break to this, otherwise this will loop with no end
+        println!("Looping!"); //I have added a break to this, otherwise this will loop with not end
 
         break;
    }
 
 
-return_value_loop();
+return_value_loop(); // Return value loop example
 }
 fn return_value_loop() 
 {

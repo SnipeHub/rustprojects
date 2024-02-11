@@ -19,6 +19,10 @@ name = "compound_types"
 version = "0.1.0"
 
 [[package]]
+name = "conditional_loops_while"
+version = "0.1.0"
+
+[[package]]
 name = "floating_point"
 version = "0.1.0"
 
@@ -52,6 +56,10 @@ version = "0.1.0"
 
 [[package]]
 name = "if_in_let"
+version = "0.1.0"
+
+[[package]]
+name = "loop_collection_for"
 version = "0.1.0"
 
 [[package]]
