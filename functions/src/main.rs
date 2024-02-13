@@ -1,4 +1,4 @@
-fn main() /* the main function is the entry point of mand programs, the fn keyword allows you to declare new functions */
+fn main() /* the main function is the entry point of many programs, the fn keyword allows you to declare new functions */
 {
    println!("A simple print to screen in the main function");
 
