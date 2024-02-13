@@ -43,7 +43,7 @@ fn range_example()
     println!("LIFTOFF!!!");
 }
 
-fn extra_real_example() // In this example, it will count down, but tehre will be a pause of 1 sec
+fn extra_real_example() // In this example, it will count down, but there will be a pause of 1 sec
                         // Also I had to add some extra options into the scope, see above the main function()
 {
     for number in (1..4).rev()

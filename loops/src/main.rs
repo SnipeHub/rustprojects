@@ -5,7 +5,7 @@ fn main() /* Loops are all about repeating code, where by the code is executed t
 {
    loop 
    {
-        println!("Looping!"); //I have added a break to this, otherwise this will loop with not end
+        println!("Looping!"); //I have added a break to this, otherwise this loop will not end
 
         break;
    }
