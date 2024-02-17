@@ -18,7 +18,8 @@ workspace = { members = [
     "loops", 
     "multiple_loops", 
     "conditional_loops_while", 
-    "loop_collection_for",
+    "loop_collection_for", 
+    "guessing_game",
     ] }
 [package]
 name = "rustprojects"

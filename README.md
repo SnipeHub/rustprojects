@@ -14,7 +14,7 @@
 `rustc` - this command will compile your main.rs source file, this is used for more simple programs. Example: "rustc main.rs" this will compile it, then you would
         type ./main to run the application.
 
-`rustup` - this will update your rust install, if you have installed on Linux from your distro's maintained repo, not necessary to run.
+`rustup update` - this will update your rust install, if you have installed on Linux from your distro's maintained repo, not necessary to run.
 
 `cargo new projectname` - create a new project
 
@@ -26,6 +26,8 @@
 
 `cargo build --release` - When your project is finally ready for release, you can use "cargo build --release" to compile it with optimizations. This command will create an executable in target/release instead of target/debug. The optimizations make your Rust code run faster, but turning them on lengthens the time it takes for your program to compile. 
 
+`cargo doc --open` - When you need to know which traits to use and which methods and functions to call from a crate, each crate has documentation with instructions for using it. When you run this command it will build documentation provided by all your dependecies locally and open it in your browser.
+
 # Some helpful git commands
 
 To work on any existing github projects, you can use the following commands to check out the code using Git, change to that project’s directory, and build: 
@@ -34,7 +36,10 @@ $ `git clone example.org/someproject`
 $ `cd someproject`  
 $ `cargo build`  
 
-# More information about Cargo 
+# More information about Rust 
 
 The Cargo Book
 https://doc.rust-lang.org/cargo/
+
+The Rust Standard Library
+https://doc.rust-lang.org/std/prelude/index.html
