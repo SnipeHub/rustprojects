@@ -21,7 +21,8 @@ workspace = { members = [
     "loop_collection_for", 
     "guessing_game", 
     "ownership_rules", 
-    "ownership_pt2",
+    "ownership_pt2", 
+    "rust_calculator",
     ] }
 [package]
 name = "rustprojects"
