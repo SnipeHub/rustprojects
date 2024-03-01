@@ -23,7 +23,8 @@ workspace = { members = [
     "ownership_rules", 
     "ownership_pt2", 
     "rust_calculator", 
-    "ownership_and_functions",
+    "ownership_and_functions", 
+    "transferring_ownership",
     ] }
 [package]
 name = "rustprojects"
