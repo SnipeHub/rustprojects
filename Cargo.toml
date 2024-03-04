@@ -24,7 +24,9 @@ workspace = { members = [
     "ownership_pt2", 
     "rust_calculator", 
     "ownership_and_functions", 
-    "transferring_ownership",
+    "transferring_ownership", 
+    "port_sniffer", 
+    "three_dice_game",
     ] }
 [package]
 name = "rustprojects"
@@ -34,3 +36,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+tokio = { version = "1.36.0", features = ["full"] }
+rand = "0.8.5"
