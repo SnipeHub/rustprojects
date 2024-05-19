@@ -53,7 +53,7 @@ fn main()
             };
 
             let mut roll_results = Vec::new();
-            for _ in 0..4 {
+            for _ in 0..3 { // This is determining how many 6 sided dice you are rolling each time, should be 3
                 let roll = rng_roll.gen_range(1..=6); // Roll a die (6 sided die or 1-6)
                 roll_results.push(roll);
             }
