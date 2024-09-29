@@ -27,7 +27,9 @@ workspace = { members = [
     "transferring_ownership", 
     "port_sniffer", 
     "three_dice_game", 
-    "calculate_sum",
+    "calculate_sum", 
+    "port_sniffer2",
+    "mutable_references",
     ] }
 [package]
 name = "rustprojects"
